@@ -58,5 +58,5 @@ When I’m not coding models or debugging data pipelines, I’m probably playing
 ⭐️ *“AI is not just about intelligence—it’s about impact.”*
 
 ![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImtiazNDMA&show_icons=true&theme=shades-of-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImtiazNDMA&layout=compact&theme=shades-of-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImtiazNDMA&layout=donut&theme=shades-of-purple)
 
