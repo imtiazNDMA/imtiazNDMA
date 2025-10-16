@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Imtiaz Nabi  
-**AI Engineer | National Emergencies Operations Centre (NEOC), NDMA |**
+**AI Engineer | National Emergencies Operations Centre (NEOC), NDMA**
 
 ---
 
