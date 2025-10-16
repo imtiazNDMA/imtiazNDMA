@@ -25,7 +25,7 @@ My work focuses on transforming Earth observation, climate, and sensor data into
 **Frameworks:** PyTorch, TensorFlow, LangChain, LlamaIndex, FastAPI, Streamlit, Gradio  
 **Data Science Tools:** NumPy, Pandas, Scikit-learn, OpenCV, Matplotlib, Plotly  
 **Geospatial Tools:** Google Earth Engine, Rasterio, xarray, Geemap, Cartopy  
-**AI/ML Ops:** Hugging Face, MLflow, Weights & Biases, Docker, Git  
+**AI/ML Ops:** Hugging Face, MLflow, Docker, Git  
 **Visualization:** Plotly Dash, Power BI, and custom interactive dashboards  
 
 ---
