@@ -38,6 +38,17 @@ My work focuses on transforming Earth observation, climate, and sensor data into
 
 ---
 
+## 🌸 Current State
+
+```yaml
+Breathing_Level: Maximum
+Focus: Model Forging
+Energy: 83%
+Threat_Level: Rising Complexity
+```
+
+---
+
 ### 🤝 Let’s Collaborate
 I love working on **AI tools and products**, **geospatial intelligence**, and **climate-tech innovation**.  
 If you’re building something in **AI, LLMs, or applied ML for public good**, let’s connect and collaborate.
@@ -63,4 +74,13 @@ When I’m not coding models or debugging data pipelines, I’m probably playing
 
 ---
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default" />
+
+## 🩸 Technique Visuals
+
+```markdown
+![Demon Flame Banner](https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=140&section=header)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImtiazNDMA&show_icons=true&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImtiazNDMA&theme=tokyonight)
+```
+
+
