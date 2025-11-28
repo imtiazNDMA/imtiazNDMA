@@ -8,6 +8,7 @@ I’m an **AI Engineer** at the **National Disaster Management Authority (NDMA),
 
 My work focuses on transforming Earth observation, climate, and sensor data into **AI-powered early warning systems**, using models that learn, reason, and act autonomously.
 
+![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImtiazNDMA&show_icons=true&theme=shades-of-purple)
 ---
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -60,9 +61,7 @@ When I’m not coding models or debugging data pipelines, I’m probably playing
 
 ---
 
-⭐️ *“AI is not just about intelligence—it’s about impact.”*
 
-![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImtiazNDMA&show_icons=true&theme=shades-of-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImtiazNDMA&layout=normal&theme=shades-of-purple)
 
 ---
