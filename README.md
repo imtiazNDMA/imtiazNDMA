@@ -33,7 +33,7 @@ My work focuses on transforming Earth observation, climate, and sensor data into
 **AI/ML Ops:** Hugging Face, MLflow, Docker, Git  
 **Visualization:** Plotly Dash, Power BI, and custom interactive dashboards  
 
-![Sakura](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
+![Progress](https://progress-bar.dev/78/?title=Katana%20Mastery)
 
 ### 🧠 Current Focus
 - Building **Agentic AI systems** that autonomously monitor, reason, and respond to environmental hazards.  
