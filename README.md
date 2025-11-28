@@ -59,4 +59,5 @@ When I’m not coding models or debugging data pipelines, I’m probably playing
 
 ![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImtiazNDMA&show_icons=true&theme=shades-of-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImtiazNDMA&layout=normal&theme=shades-of-purple)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImtiazNDMA)
 
