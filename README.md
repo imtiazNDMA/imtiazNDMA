@@ -10,6 +10,10 @@ My work focuses on transforming Earth observation, climate, and sensor data into
 
 ---
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
 ### 💡 What I Build
 - 🤖 **Agentic AI Systems** – LLM-based agents for real-time analysis, decision support, and automation.  
 - 🛰️ **Earth Observation & Remote Sensing AI** – Deep learning pipelines using **Sentinel**, **CHIRPS**, **CMIP6**, and **Google Earth Engine**.  
@@ -38,17 +42,6 @@ My work focuses on transforming Earth observation, climate, and sensor data into
 
 ---
 
-## 🌸 Current State
-
-```yaml
-Breathing_Level: Maximum
-Focus: Model Forging
-Energy: 83%
-Threat_Level: Rising Complexity
-```
-
----
-
 ### 🤝 Let’s Collaborate
 I love working on **AI tools and products**, **geospatial intelligence**, and **climate-tech innovation**.  
 If you’re building something in **AI, LLMs, or applied ML for public good**, let’s connect and collaborate.
@@ -63,7 +56,7 @@ If you’re building something in **AI, LLMs, or applied ML for public good**, l
 
 ### ⚡ Fun Fact
 When I’m not coding models or debugging data pipelines, I’m probably playing video games or reading manga.
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImtiazNDMA)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImtiazNDMA&theme=tokyonight)
 
 ---
 
@@ -73,6 +66,13 @@ When I’m not coding models or debugging data pipelines, I’m probably playing
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImtiazNDMA&layout=normal&theme=shades-of-purple)
 
 ---
+
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)
+
+
+---
+
+
 
 
 ## 🩸 Technique Visuals
