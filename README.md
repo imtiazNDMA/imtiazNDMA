@@ -67,20 +67,11 @@ When I’m not coding models or debugging data pipelines, I’m probably playing
 
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)
+![Visitors](https://komarev.com/ghpvc/?username=ImtiazNDMA&color=brightgreen)
 
 
 ---
 
 
-
-
-## 🩸 Technique Visuals
-
-```markdown
-![Demon Flame Banner](https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=140&section=header)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImtiazNDMA&show_icons=true&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImtiazNDMA&theme=tokyonight)
-```
 
 
