@@ -57,8 +57,7 @@ If you’re building something in **AI, LLMs, or applied ML for public good**, l
 
 ### ⚡ Fun Fact
 When I’m not coding models or debugging data pipelines, I’m probably playing video games or reading manga.
-![Streak]
-(https://github-readme-streak-stats.herokuapp.com/?user=ImtiazNDMA&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImtiazNDMA&theme=tokyonight)
 
 ---
 
