@@ -1,72 +1,37 @@
-# 👋 Hey there, I'm Imtiaz Nabi  
-**AI Engineer**
+<img src="./assets/banner.svg" width="100%" alt="Imtiaz Nabi. AI Engineer, National Disaster Management Authority, Pakistan. Weekly GitHub contributions over the last 12 months." />
 
----
+I build AI systems for disaster risk reduction at the **National Disaster Management Authority (NDMA), Pakistan**. My work turns Earth observation, climate and sensor data into early warnings and decision support, using machine learning, agentic AI and geospatial analytics.
 
-### 🚀 About Me
-I’m an **AI Engineer** at the **National Disaster Management Authority (NDMA), Pakistan**, where I work at the intersection of **machine learning**, **agentic AI**, and **geospatial analytics** to power real-time decision support systems for disaster risk reduction and resilience planning.
+### Selected work
 
-My work focuses on transforming Earth observation, climate, and sensor data into **AI-powered early warning systems**, using models that learn, reason, and act autonomously.
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| [**Pakistan Early Warning System**](https://github.com/imtiazNDMA/EarlyWarningSystem) | District-level weather monitoring with lifecycle-managed hazard alerts, keeping the evidence behind every alert | FastAPI, PostgreSQL, React, MapLibre |
+| [**Earthquake Intensity Platform**](https://github.com/imtiazNDMA/earthquake-intelligence) | Site-amplified MMI intensity maps from an event's magnitude, depth and location | NumPy, Uvicorn, Leaflet |
+| [**Cloudburst Early Warning**](https://github.com/imtiazNDMA/cloudburstmonitoring) | Nowcasting that gates cloudburst risk on convective predictors such as CAPE and precipitable water | Python |
+| [**ChatbotARK**](https://github.com/imtiazNDMA/ResiliantGPT) | Disaster-management assistant with cited RAG answers, local Llama 3.1 and Whisper voice input | Ollama, ChromaDB, Whisper |
+| [**SimEx AI**](https://github.com/imtiazNDMA/SimExAI) | AI assistant for NDMA simulation exercises across ten disaster-response wings | FastAPI, LangChain, Ollama |
 
-![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImtiazNDMA&show_icons=true&theme=shades-of-purple)
----
+### What I work on
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+- **Agentic AI systems.** LLM agents for real-time analysis, decision support and automation.
+- **Earth observation.** Deep learning on Sentinel, CHIRPS and CMIP6 data with Google Earth Engine.
+- **Early warning.** Monitoring and alerting for floods, cloudbursts, heatwaves and droughts.
+- **Retrieval-augmented generation.** Knowledge systems that ground answers in documents and structured data.
+- **Generative models.** GANs for satellite data simulation and diffusion models for hazard visualisation.
 
----
+### Toolkit
 
-### 💡 What I Build
-- 🤖 **Agentic AI Systems** – LLM-based agents for real-time analysis, decision support, and automation.  
-- 🛰️ **Earth Observation & Remote Sensing AI** – Deep learning pipelines using **Sentinel**, **CHIRPS**, **CMIP6**, and **Google Earth Engine**.  
-- 🌦️ **AI-Powered Early Warning Dashboards** – Real-time monitoring systems for floods, heatwaves, and droughts.  
-- 🧬 **Generative AI & GANs** – Exploring diffusion models and generative adversarial networks for data synthesis and enhancement.  
-- 🔍 **Retrieval-Augmented Generation (RAG)** – Context-aware knowledge systems that fuse AI with structured data.  
-- 🧩 **ML & DL Model Engineering** – End-to-end workflows from data preprocessing to model deployment (PyTorch / TensorFlow).  
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,docker,postgres,gcp,js,bash,git" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI, Docker, PostgreSQL, Google Cloud, JavaScript, Bash, Git" />
 
----
+**LLMs and agents:** LangChain, LlamaIndex, Ollama, Hugging Face, MLflow<br />
+**Geospatial:** Google Earth Engine, Rasterio, xarray, geemap, Cartopy<br />
+**Data and apps:** NumPy, Pandas, Plotly Dash, Streamlit, Gradio, Power BI
 
-### 🧰 Tech Stack
-**Languages:** Python, JavaScript, SQL, Bash  
-**Frameworks:** PyTorch, TensorFlow, LangChain, LlamaIndex, FastAPI, Streamlit, Gradio  
-**Data Science Tools:** NumPy, Pandas, Scikit-learn, OpenCV, Matplotlib, Plotly  
-**Geospatial Tools:** Google Earth Engine, Rasterio, xarray, Geemap, Cartopy  
-**AI/ML Ops:** Hugging Face, MLflow, Docker, Git  
-**Visualization:** Plotly Dash, Power BI, and custom interactive dashboards  
+### Get in touch
 
+I'm interested in collaborating on AI for the public good, geospatial intelligence and climate tech.
 
+[LinkedIn](https://linkedin.com/in/imtiaznabi) &nbsp;&nbsp;&nbsp; [YouTube](https://www.youtube.com/@code2compass) &nbsp;&nbsp;&nbsp; [Substack](https://code2compass.substack.com) &nbsp;&nbsp;&nbsp; [GitHub (Imtiaz08)](https://github.com/Imtiaz08)
 
-### 🧠 Current Focus
-- Building **Agentic AI systems** that autonomously monitor, reason, and respond to environmental hazards.  
-- Researching **GANs for satellite data simulation** and **diffusion models for hazard visualization**.  
-- Developing **LLM-based decision support agents** for humanitarian operations.  
-- Exploring **multi-modal AI** – integrating vision, text, and geospatial data for real-world resilience.
-
----
-
-### 🤝 Let’s Collaborate
-I love working on **AI tools and products**, **geospatial intelligence**, and **climate-tech innovation**.  
-If you’re building something in **AI, LLMs, or applied ML for public good**, let’s connect and collaborate.
-
-📫 **Reach me on:**  
-- **LinkedIn:** [linkedin.com/in/imtiaznabi](https://linkedin.com/in/imtiaznabi)  
-- **YouTube:** [@code2compass](https://www.youtube.com/@code2compass)  
-- **Substack:** [code2compass.substack.com](https://code2compass.substack.com)  
-- **GitHub:** [github.com/Imtiaz08](https://github.com/Imtiaz08)  
-
----
-
-### ⚡ Fun Fact
-When I’m not coding models or debugging data pipelines, I’m probably playing video games or reading manga.
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImtiazNDMA&theme=tokyonight)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImtiazNDMA&layout=normal&theme=shades-of-purple)
----
-
-![Visitors](https://komarev.com/ghpvc/?username=ImtiazNDMA&color=brightgreen)
----
-
-
-
-
+<sub>Outside work: video games and manga.</sub>
