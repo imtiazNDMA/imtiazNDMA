@@ -16,8 +16,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install fonttools brotli
-      - run: python scripts/build_banner.py
+      - run: pip install fonttools brotli numpy matplotlib
+      - run: python scripts/build_assets.py --banner-only
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit if changed
@@ -25,5 +25,5 @@ jobs:
           git diff --quiet assets/banner.svg && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "Refresh contribution banner"
+          git commit -m "Refresh contribution banner" assets/banner.svg
           git push

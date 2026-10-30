@@ -4,21 +4,27 @@ I build AI systems for disaster risk reduction at the **National Disaster Manage
 
 ### Selected work
 
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-| [**Pakistan Early Warning System**](https://github.com/imtiazNDMA/EarlyWarningSystem) | District-level weather monitoring with lifecycle-managed hazard alerts, keeping the evidence behind every alert | FastAPI, PostgreSQL, React, MapLibre |
-| [**Earthquake Intensity Platform**](https://github.com/imtiazNDMA/earthquake-intelligence) | Site-amplified MMI intensity maps from an event's magnitude, depth and location | NumPy, Uvicorn, Leaflet |
-| [**Cloudburst Early Warning**](https://github.com/imtiazNDMA/cloudburstmonitoring) | Nowcasting that gates cloudburst risk on convective predictors such as CAPE and precipitable water | Python |
-| [**ChatbotARK**](https://github.com/imtiazNDMA/ResiliantGPT) | Disaster-management assistant with cited RAG answers, local Llama 3.1 and Whisper voice input | Ollama, ChromaDB, Whisper |
-| [**SimEx AI**](https://github.com/imtiazNDMA/SimExAI) | AI assistant for NDMA simulation exercises across ten disaster-response wings | FastAPI, LangChain, Ollama |
+<a href="https://github.com/imtiazNDMA/EarlyWarningSystem"><img src="./assets/card-ews.svg" width="100%" alt="Pakistan Early Warning System. District-level weather monitoring with lifecycle-managed hazard alerts. FastAPI, PostgreSQL, React, MapLibre." /></a>
+
+<a href="https://github.com/imtiazNDMA/earthquake-intelligence"><img src="./assets/card-quake.svg" width="49%" alt="Earthquake Intensity Platform. Site-amplified MMI intensity maps from an event's magnitude, depth and location." /></a>
+<a href="https://github.com/imtiazNDMA/cloudburstmonitoring"><img src="./assets/card-cloudburst.svg" width="49%" alt="Cloudburst Early Warning. Nowcasting that gates cloudburst risk on convective predictors." /></a>
+<a href="https://github.com/imtiazNDMA/ResiliantGPT"><img src="./assets/card-rag.svg" width="49%" alt="ChatbotARK. Disaster-management assistant with cited RAG answers, local Llama 3.1 and Whisper voice input." /></a>
+<a href="https://github.com/imtiazNDMA/SimExAI"><img src="./assets/card-simex.svg" width="49%" alt="SimEx AI. An AI assistant for NDMA simulation exercises across ten disaster-response wings." /></a>
 
 ### What I work on
 
-- **Agentic AI systems.** LLM agents for real-time analysis, decision support and automation.
-- **Earth observation.** Deep learning on Sentinel, CHIRPS and CMIP6 data with Google Earth Engine.
-- **Early warning.** Monitoring and alerting for floods, cloudbursts, heatwaves and droughts.
-- **Retrieval-augmented generation.** Knowledge systems that ground answers in documents and structured data.
-- **Generative models.** GANs for satellite data simulation and diffusion models for hazard visualisation.
+<table>
+  <tr>
+    <td width="33%" valign="top"><img src="./assets/icon-robot.svg" width="44" alt="" /><br /><b>Agentic AI systems</b><br />LLM agents for real-time analysis, decision support and automation.</td>
+    <td width="33%" valign="top"><img src="./assets/icon-globe-hemisphere-east.svg" width="44" alt="" /><br /><b>Earth observation</b><br />Deep learning on Sentinel, CHIRPS and CMIP6 data with Google Earth Engine.</td>
+    <td width="33%" valign="top"><img src="./assets/icon-bell-ringing.svg" width="44" alt="" /><br /><b>Early warning</b><br />Monitoring and alerting for floods, cloudbursts, heatwaves and droughts.</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="./assets/icon-files.svg" width="44" alt="" /><br /><b>Retrieval-augmented generation</b><br />Knowledge systems that ground answers in documents and structured data.</td>
+    <td valign="top"><img src="./assets/icon-sparkle.svg" width="44" alt="" /><br /><b>Generative models</b><br />GANs for satellite data simulation and diffusion models for hazard visualisation.</td>
+    <td valign="top"><img src="./assets/icon-brain.svg" width="44" alt="" /><br /><b>Model engineering</b><br />End-to-end PyTorch and TensorFlow workflows, from preprocessing to deployment.</td>
+  </tr>
+</table>
 
 ### Toolkit
 
@@ -32,6 +38,13 @@ I build AI systems for disaster risk reduction at the **National Disaster Manage
 
 I'm interested in collaborating on AI for the public good, geospatial intelligence and climate tech.
 
-[LinkedIn](https://linkedin.com/in/imtiaznabi) &nbsp;&nbsp;&nbsp; [YouTube](https://www.youtube.com/@code2compass) &nbsp;&nbsp;&nbsp; [Substack](https://code2compass.substack.com) &nbsp;&nbsp;&nbsp; [GitHub (Imtiaz08)](https://github.com/Imtiaz08)
+<a href="https://linkedin.com/in/imtiaznabi"><img src="./assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.youtube.com/@code2compass"><img src="./assets/btn-youtube.svg" height="46" alt="YouTube: code2compass" /></a>&nbsp;
+<a href="https://code2compass.substack.com"><img src="./assets/btn-substack.svg" height="46" alt="Substack: code2compass" /></a>&nbsp;
+<a href="https://github.com/Imtiaz08"><img src="./assets/btn-github.svg" height="46" alt="GitHub: Imtiaz08" /></a>
+
+<br />
+
+<img src="./assets/footer.svg" width="100%" alt="Coffee, code, crisis, commit." />
 
 <sub>Outside work: video games and manga.</sub>
